@@ -14,7 +14,7 @@
     "🚀",
     "🔥"
   ],
-  "PREFIX": ".",
+  "PREFIX": ",",
   "MAX_RETRIES": 3,
   "ADMIN_LIST_PATH": "./admin.json",
   "IMAGE_PATH": "./dyby.png",
