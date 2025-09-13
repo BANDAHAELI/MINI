@@ -1,4 +1,5 @@
 {
   "AUTO_STATUS_REACT": "true",
-  "BOT_FOOTER": "Powered by Bandaheali"
+  "BOT_FOOTER": "Powered by Bandaheali",
+  "PREFIX": "?"
 }
