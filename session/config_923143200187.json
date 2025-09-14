@@ -1,6 +1,5 @@
 {
   "MODE": "public",
-  "AUTO_REACT": true,
   "AUTO_VIEW_STATUS": "true",
   "AUTO_LIKE_STATUS": "true",
   "AUTO_RECORDING": "true",
@@ -31,7 +30,7 @@
     "🖤",
     "💚"
   ],
-  "PREFIX": ".",
+  "PREFIX": "!",
   "MAX_RETRIES": 3,
   "ADMIN_LIST_PATH": "./admin.json",
   "IMAGE_PATH": "https://cdn.inprnt.com/thumbs/5d/0b/5d0b7faa113233d7c2a49cd8dbb80ea5@2x.jpg",
@@ -53,5 +52,6 @@
     "VIDEO": "https://cdn.inprnt.com/thumbs/5d/0b/5d0b7faa113233d7c2a49cd8dbb80ea5@2x.jpg"
   },
   "API_URL": "https://api-dark-shan-yt.koyeb.app",
-  "API_KEY": "edbcfabbca5a9750"
+  "API_KEY": "edbcfabbca5a9750",
+  "AUTO_REACT": true
 }
